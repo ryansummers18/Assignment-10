@@ -1,0 +1,14 @@
+body {
+  font-family: Calibri, Anivers, sans-serif;
+}
+
+h1, p {
+  padding: 10px, 20px;
+}
+
+article{
+  margin: auto;
+  padding: 30 px;
+  width: 90%;
+  background:#0f0;
+}
